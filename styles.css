@@ -1,6 +1,6 @@
 body{
     overflow:auto;
-    background-image:goldenrod;
+    background-image:src(./image/);
     
 }
 h1{
