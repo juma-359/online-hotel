@@ -25,4 +25,24 @@ h3{
 .cakes{
     display:block;
 }
-
+nav{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0;
+    font-size: xx-large;
+    text-align: right;
+}
+nav>ul>li>a{
+    padding: 18px;
+    margin-right: 0;
+    text-transform:uppercase;
+    text-decoration: none;
+    display: block;
+    color: rgba(255, 255, 255, 0.733);
+}
+nav>ul>li>a:hover{
+    box-shadow: 0 0 15px rosybrown;
+    background-color: seagreen;
+    text-align: righ;
+}
