@@ -1,6 +1,6 @@
 body{
     overflow:auto;
-    background-image:url('https://bit.ly/379Hlck');
+    background-color:goldenrod;
     text-align: centre;    
 }
 h1{
@@ -13,7 +13,7 @@ p{
     padding: 0px;
 }
 h2{
-    color: peru;
+    color:purple;
 }
 h3{
    color: purple; 
@@ -25,6 +25,4 @@ h3{
 .cakes{
     display:block;
 }
-#contacts{
-    text-align: centre;
-}
+
