@@ -1,21 +1,35 @@
-body{
+Body{
     overflow:auto;
-    background-image:src(https://bit.ly/379Hlck);
-    text-align: align-centre;    
+    
 }
+#overlay{
+    position: fixed;
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(112, 20, 188, 0.5);
+    z-index: 2;
 h1{
     color:blue;
 }
 p{
     font-size: large;
     font-style: oblique;
-    color: indigo;
     padding: 0px;
 }
 h2{
     color: peru;
+    
 }
 h3{
-   color: yellowgreen; 
+   color: purple; 
+}
+*{
+    text-align: center;
+    
 }
 
