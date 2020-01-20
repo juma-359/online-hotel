@@ -1,11 +1,10 @@
 body{
     overflow:auto;
-    background-image:url("https://bit.ly/379Hlck");
-    text-align: align-centre;
-    
+    background-image:src(https://bit.ly/379Hlck);
+    text-align: align-centre;    
 }
 h1{
-    color:blue
+    color:blue;
 }
 p{
     font-size: large;
@@ -13,3 +12,10 @@ p{
     color: indigo;
     padding: 0px;
 }
+h2{
+    color: peru;
+}
+h3{
+   color: yellowgreen; 
+}
+
