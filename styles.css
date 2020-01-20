@@ -46,3 +46,10 @@ nav>ul>li>a:hover{
     background-color: seagreen;
     text-align: righ;
 }
+img{
+    width: 300px;
+    height: 200px;
+}
+#menu{
+    flex-direction: column;
+}
