@@ -9,7 +9,6 @@ h1{
 p{
     font-size: large;
     font-style: oblique;
-    color: indigo;
     padding: 0px;
 }
 h2{
@@ -23,7 +22,7 @@ h3{
     flex-wrap: wrap;
 }
 .cakes{
-    display: inline;
+    display: inline-block;
 }
 nav{
     max-width: 960px;
@@ -32,6 +31,7 @@ nav{
     margin-right: 0;
     font-size: xx-large;
     text-align: right;
+    background-color: honeydew;
 }
 nav>ul>li>a{
     padding: 18px;
