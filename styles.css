@@ -46,7 +46,7 @@ h2, h3{
 .container a{
     text-transform: uppercase;
     display: block;
-     color: black;
+    color: black;
     float:right;
     padding: 14px 16px;
     text-decoration: none;
